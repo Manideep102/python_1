@@ -1,2 +1,2 @@
-# python_1
+# Python
 Hacker rank
